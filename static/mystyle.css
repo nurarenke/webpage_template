@@ -1,0 +1,142 @@
+body {
+    
+    font-family:'Arial', sans-serif;
+    font-size:20px;
+
+}
+
+p {
+    font-size: 12px;
+}
+
+h2 {
+    color:#FF841E;
+}
+
+hr{
+    border-width:10px;
+    border-color: #484848;
+}
+
+#top-bar {
+    width:100%;
+    height:30px;
+    margin:0 auto;
+    background-color: #FF841E;
+}
+
+#top-bar-color {
+    background-color: #FF841E;
+
+}
+
+.topbar-section-left{
+    float:left;
+    height:70%;
+    top:5px;
+}
+
+.topbar-section-right{
+    float:right;
+    height:70%;
+    top:5px;
+}
+
+.topbar-menu {
+    font-weight: bold;
+    color:#FFFFFF;
+    font-size:70%;
+    position:relative;
+}
+
+#login-header {
+    margin-right:35px;
+    border:0px;
+
+}
+
+.red-text {
+    color:#800000;
+}
+
+
+#navbar-menu {
+    float:right;
+}
+
+.navbar-nav > li > a {
+    font-size:70%;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:black;
+}
+
+.top-bar-two {
+    background-color: #F0F0F0;
+
+}
+
+#logo {
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+#your-text {
+    color:#484848;
+}
+
+#logo-text {
+    color:#FF841E;
+
+}
+
+#site-map-text {
+    color:#484848;
+}
+
+.spacer{
+    margin-top:20px;
+}
+
+.outside-label {
+    height:50px
+    left padding:25px;
+    border:1px, #888888;
+    font-size:15px;
+    color:#888888;
+    font-weight:bolder;
+}
+
+.form-control:focus {
+  border-color:#FF8000;
+  box-shadow:none;
+}
+
+.form-control {
+    height:50px
+    left padding:25px;
+    border:1px, #888888;
+    font-size:15px;
+    color:#888888;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+
+#submit-btn {
+    background-color:#FF8000;
+    font-size:15px;
+    font-weight: bold;
+    color:#FFFFFF;
+    text-transform: uppercase;
+    border-radius: 0px;
+    height: 50px;
+    left padding: 25px;
+    right padding: 25px;
+    letter-spacing: 1px;
+
+}
+
+
+
+
